@@ -22,6 +22,7 @@
   },
   "scripts": {
     "lint:markdown": "markdownlint-cli2 '**/*.md'",
-    "lint:text": "textlint '**/*.md'"
+    "lint:text": "textlint '**/*.md'",
+    "lint:spell": "cspell '**/*.md'"
   }
 }
