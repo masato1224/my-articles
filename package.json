@@ -21,8 +21,16 @@
     "textlint-rule-prh": "^6.0.0"
   },
   "scripts": {
-    "lint:markdown": "markdownlint-cli2 '**/*.md'",
-    "lint:text": "textlint '**/*.md'",
-    "lint:spell": "cspell '**/*.md'"
+    "lint:markdown": "markdownlint-cli2",
+    "lint:text": "textlint",
+    "lint:spell": "cspell --color",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.md": [
+      "yarn lint:markdown",
+      "yarn lint:text",
+      "yarn lint:spell"
+    ]
   }
 }
