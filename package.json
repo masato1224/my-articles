@@ -5,7 +5,14 @@
   "author": "suzuki.masato <suzuki.masato@a-tm.co.jp>",
   "license": "MIT",
   "devDependencies": {
+    "cspell": "^8.16.1",
     "husky": "^9.1.7",
-    "lint-staged": "^15.2.11"
+    "lint-staged": "^15.2.11",
+    "markdownlint-cli2": "^0.16.0",
+    "textlint": "^14.4.0",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-preset-ja-spacing": "^2.4.3",
+    "textlint-rule-preset-ja-technical-writing": "^10.0.1",
+    "textlint-rule-prh": "^6.0.0"
   }
 }
