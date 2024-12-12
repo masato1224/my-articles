@@ -1,0 +1,20 @@
+{
+  "plugins": {},
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "aws-service-name": true,
+    "ja-no-redundant-expression": true,
+    "ja-unnatural-alphabet": true,
+    "no-doubled-joshi": true,
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true,
+    "preset-japanese": true,
+    "prh": {
+      "rulePaths": [
+        "node_modules/prh/prh-rules/media/WEB+DB_PRESS.yml"
+      ]
+    }
+  }
+}

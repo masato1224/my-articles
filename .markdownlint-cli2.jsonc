@@ -1,0 +1,5 @@
+{
+  "config": {
+  },
+  "ignores": [".git", ".github", "node_modules", ".hasky"]
+}
