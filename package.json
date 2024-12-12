@@ -1,0 +1,11 @@
+{
+  "name": "my-articles",
+  "version": "1.0.0",
+  "repository": "git@github.com:masato1224/my_articles.git",
+  "author": "suzuki.masato <suzuki.masato@a-tm.co.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.11"
+  }
+}
