@@ -1,2 +1,3 @@
-# my_articles
-記事記事の管理
+# my-articles
+
+投稿記事の管理用リポジトリです。
