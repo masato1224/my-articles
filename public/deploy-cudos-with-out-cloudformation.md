@@ -1,15 +1,15 @@
 ---
 title: 'CUDOS構築記 Vol.1: CUDOSの概要と構築方法の検討'
 tags:
-  - 'aws'
-  - 'CUDOS'
-  - 'Cloud Intelligence Dashboards'
-  - 'terraform'
-  - 'CFM'
+  - AWS
+  - Terraform
+  - CFM
+  - CUDOS
+  - CloudIntelligenceDashboards
 private: true
-updated_at: ''
-id: null
-organization_url_name: ''
+updated_at: '2024-12-15T22:21:02+09:00'
+id: 311e890ade9b48700cbe
+organization_url_name: null
 slide: false
 ignorePublish: false
 ---
