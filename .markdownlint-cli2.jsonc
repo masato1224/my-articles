@@ -1,5 +1,7 @@
 {
   "config": {
+    "MD013": false,
+    "MD034":false
   },
   "ignores": [".git", ".github", "node_modules", ".hasky"]
 }
