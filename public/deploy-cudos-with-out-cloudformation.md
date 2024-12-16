@@ -6,10 +6,10 @@ tags:
   - CFM
   - CUDOS
   - CloudIntelligenceDashboards
-private: true
-updated_at: '2024-12-15T22:24:23+09:00'
+private: false
+updated_at: '2024-12-16T07:05:47+09:00'
 id: 311e890ade9b48700cbe
-organization_url_name: null
+organization_url_name: ateam-life-design
 slide: false
 ignorePublish: false
 ---
