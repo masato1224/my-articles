@@ -7,8 +7,8 @@ tags:
   - CUDOS
   - CloudIntelligenceDashboards
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-01-29T18:53:36+09:00'
+id: 998e89859aeed4db8c66
 organization_url_name: ateam-life-design
 slide: false
 ignorePublish: false
