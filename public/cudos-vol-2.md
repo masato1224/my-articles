@@ -7,7 +7,7 @@ tags:
   - CUDOS
   - CloudIntelligenceDashboards
 private: false
-updated_at: '2025-01-10T15:28:43+09:00'
+updated_at: '2025-01-29T18:53:36+09:00'
 id: 015b4c9f5bdeaeeb5cf2
 organization_url_name: ateam-life-design
 slide: false
@@ -28,7 +28,7 @@ ignorePublish: false
 - CUDSの構築ステップは3つ
   - Step1: CURの集約先を作成する
   - Step2: CURの出力と集約先へのレプリケーション設定をする
-  - Step3: CURの出力と集約先へのレプリケーション設定をする
+  - Step3: データソース、およびダッシュボードを作成する
 - 構築先アカウント
   - Step1,3:ダッシュボードを設置するアカウント
   - Step2: 可視化対象アカウントすべて
