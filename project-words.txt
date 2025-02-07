@@ -3,6 +3,12 @@ CUDOS
 datasource
 DATASOURCE
 ensurepip
+filemd
+INPUTFORMAT
+lpad
+mapred
+OUTPUTFORMAT
+TBLPROPERTIES
 techbooster
 tfstate
 useast
