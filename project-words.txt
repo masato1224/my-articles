@@ -1,5 +1,8 @@
 Ateam
 CUDOS
+datasource
+DATASOURCE
+ensurepip
 techbooster
-useast
 tfstate
+useast
